@@ -9,3 +9,5 @@ survey about their skin type and scanning their face. Built with Swift and power
 RepAIr Skin also features a chatbot powered by OpenAI, offering real-time answers to users' skincare questions. 
 Developed entirely on Xcode for iOS devices, our app aims to support users in their skincare 
 journey and promote their overall well-being.
+
+Uses Swift, can be ran on xcode
